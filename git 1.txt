@@ -1,0 +1,7 @@
+create three fils 
+
+and add to staging area by using syntax
+
+git add.
+
+git commit -m "some message"
