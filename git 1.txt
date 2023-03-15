@@ -1,7 +1,5 @@
-create three fils 
+this is teached by arjun 
+a - 1
 
-and add to staging area by using syntax
+print (x)
 
-git add.
-
-git commit -m "some message"
